@@ -1,0 +1,26 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Lenovo Ideapad Slim3",
+      "categoria": "Notebook",
+      "quantidade": 5,
+      "preco": 2799
+    },
+    {
+      "id": 2,
+      "nome": "Atack Shark X11",
+      "categoria": "Periférico",
+      "quantidade": 29,
+      "preco": 120
+    },
+    {
+      "id": 3,
+      "nome": "Iphone 17 PRO MAX",
+      "categoria": "Celular",
+      "quantidade": 9,
+      "preco": 12.599
+    }
+  ],
+  "proximoId": 4
+}
