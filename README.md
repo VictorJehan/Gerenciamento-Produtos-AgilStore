@@ -1,5 +1,6 @@
 # Gerenciamento-Produtos-AgilStore
 AgilStore é um sistema de gerenciamento de inventário para lojas de eletrônicos desenvolvido em Node.js com interface de terminal interativa.
+
 Funcionalidades Principais:
 
 - O sistema permite operações completas de CRUD (Criar, Ler, Atualizar, Deletar) para produtos:
